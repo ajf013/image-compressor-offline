@@ -1,8 +1,10 @@
 # Image Compressor and Download
 
-![Image Compressor and Download]()
+![Image Compressor and Download](https://i.ibb.co/nPWs3BH/image-compressor-offline.png)
 
-### [Live Site](https://imagecompressor.netlify.app/)
+### [Live Site](https://imagecompressoroffline.netlify.app/)
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/10da8eb9-392b-4837-828a-a01e80bec4c7/deploy-status)](https://app.netlify.com/sites/imagecompressoroffline/deploys)
 
 # Installation
 
